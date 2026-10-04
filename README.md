@@ -1,6 +1,6 @@
 # Safe360 Training Systems
 
-Promotional website for Safe360 Training Systems and its browser-based cybersecurity training product, PhishHook. The site is plain HTML, CSS, and JavaScript; it has no build step.
+Promotional website for Safe360 Training Systems and its browser-based cybersecurity training product, PhishHook. The site is plain HTML, CSS, and JavaScript; it has no build step. The hero and demo images are bundled locally in `assets/` and show the PhishHook Northline Logistics office.
 
 ## Run locally
 
@@ -19,7 +19,7 @@ The first deployment can take a few minutes. The PhishHook demo links open the s
 
 ## Product demos
 
-- 360° prototype: https://dhirubhaii.github.io/phishhook/
-- Full 3D simulation: https://dhirubhaii.github.io/phishhook/game.html
+- 360° prototype: [PhishHook](https://dhirubhaii.github.io/phishhook/)
+- Full 3D simulation: [PhishHook 3D](https://dhirubhaii.github.io/phishhook/game.html)
 
 Built by Team Inevitables.
