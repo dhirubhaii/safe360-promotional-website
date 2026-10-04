@@ -342,7 +342,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid #d46542; outline-offs
   padding: 82px 0 70px;
   text-align: left;
   background-color: var(--primary-dark);
-  background-image: linear-gradient(90deg, rgba(12, 35, 31, 0.94) 0%, rgba(12, 35, 31, 0.79) 48%, rgba(12, 35, 31, 0.25) 100%), url('assets/northline-office-hero.jpg');
+  background-image: linear-gradient(90deg, rgba(12, 35, 31, 0.74) 0%, rgba(12, 35, 31, 0.56) 48%, rgba(12, 35, 31, 0.16) 100%), url('assets/northline-office-hero.jpg');
   background-size: cover;
   background-position: center 54%;
 }
